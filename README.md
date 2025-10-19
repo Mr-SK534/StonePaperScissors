@@ -41,3 +41,8 @@ Feel free to **fork** this repository, submit **pull requests**, or suggest impr
 💼 GitHub: [https://github.com/Mr-SK534]  
 📧 Email: [ksharad534@gmail.com]
 
+### 🖥️ Live Demo
+
+You can play the Stone Paper Scissor game here:  
+[Click here to play the live game!](https://stone-paper-scissors-aptqo89ih-sharad-kumars-projects-53e5f83a.vercel.app)
+

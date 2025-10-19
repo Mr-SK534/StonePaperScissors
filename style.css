@@ -76,7 +76,7 @@ h1 {
     background: #228054;
 }
 
-/* Responsive */
+
 @media (max-width: 500px) {
     .container {
         max-width: 95vw;
